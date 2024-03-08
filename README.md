@@ -6,7 +6,7 @@ Hello there! I'm Khalid, a Cybersecurity & DevSecOps Engineer passionate. Feel f
 
 - <img src="/assets/social/Comments.png" alt="LinkedIn" style="width: 25px; height: 25px;"> Leave a comment on [GitHub Discussions](https://github.com/khoubate/resume/discussions)
 - <img src="/assets/social/QA.png" alt="LinkedIn" style="width: 25px; height: 25px;"> Open an [issue](https://github.com/khoubate/resume/issues) for questions or feedback
-- <img src="/assets/social/LinkedIn.png" alt="LinkedIn" style="width: 25px; height: 5px;"> Connect with me on [LinkedIn](https://www.linkedin.com/in/khalid-houbate/)
+- <img src="/assets/social/LinkedIn.png" alt="LinkedIn" style="width: 25px; height: 25px;"> Connect with me on [LinkedIn](https://www.linkedin.com/in/khalid-houbate/)
 
 Looking forward to hearing from you! 😊
 
