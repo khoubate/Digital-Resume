@@ -17,17 +17,23 @@ Results-driven Senior Cloud/DevOps Engineer with a robust background in cybersec
 ## Education
 
 **University of Maryland Global Campus, Maryland**  
-- Bachelor of Science in Computer Networks and Cybersecurity (Summa Cum Laude) | Jun 2022
-  - Dean's List - Summer and Fall 2020/Spring 2021
+- Bachelor of Science in Computer Networks and Cybersecurity
+
+## Training
+
+- AWS Cloud Engineer @ Booz Allen Hamilton, Inc.
+- Penetration tester course @ University of Maryland Global Campus.
+- Cybersecurity Analyst course @ University of Maryland Global Campus.
+- Linux System Administration course @ University of Maryland Global Campus.  
 
 ## Certifications
 
-- CompTIA CySA+
-- CompTIA Linux+
-- CompTIA Security+
-- ISC2 CC
-- AWS Certified Cloud Practitioner
-- AWS Solution Architect
+- 🛡️ [CompTIA CySA+](https://www.credly.com/badges/dd8ec5af-60e1-4e05-b5e8-91310789b3af)
+- 🛡️ [CompTIA Security](https://www.credly.com/badges/dd8ec5af-60e1-4e05-b5e8-91310789b3af)
+- 🛡️ [ISC2 CC](https://www.credly.com/badges/52b9ccac-5287-41fa-91da-651665d596f4)
+- 🐧 [CompTIA Linux+](https://www.credly.com/badges/fab9840d-adf3-4e1c-873b-d72e5e24ba4d)
+- ☁️ [AWS Certified Cloud Practitioner](https://www.credly.com/badges/c7607408-4d5b-444a-a7d4-279ace806b29)
+- ☁️ [AWS Solution Architect](https://www.credly.com/badges/f63d57dd-5c84-4d74-b57f-dc9dc589ff2e)
 
 ## Professional Work Experience
 
@@ -72,13 +78,6 @@ Results-driven Senior Cloud/DevOps Engineer with a robust background in cybersec
 - Recognized for coaching, training, and mentoring peers and end users.
 - Administered and managed user accounts, restrictions, and security levels in Active Directory.
 - Managed & maintained critical systems, ensuring high availability & performance.
-
-## Training
-
-- AWS Cloud Engineer (10/2021 - 4/2022) at Booz Allen Hamilton, Inc.
-- Penetration tester course (01/2022-03/2022) at University of Maryland Global Campus.
-- Cybersecurity Analyst course (10/2021-12/2021) at University of Maryland Global Campus.
-- Linux System Administration course (05/2021 - 07/2021) at University of Maryland Global Campus.
 
 ## Technical Competencies
 
