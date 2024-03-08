@@ -216,6 +216,3 @@ st.subheader("CERTIFICATIONS")
 st.write("---")
 for project, link in CERTIFICATIONS.items():
     st.write(f"[{project}]({link})")
-
-
-
