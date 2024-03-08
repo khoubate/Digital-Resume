@@ -1,8 +1,22 @@
 {
-    "functions": {
-      "api/**/*.py": {
-        "runtime": "python3.8"
+  "version": 2,
+  "builds": [
+    {
+      "src": "app.py",
+      "use": "@vercel/python",
+      "config": {
+        "python_version": "3.9"
       }
     }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "app.py"
+    }
+  ],
+  "env": {
+    "STREAMLIT_SERVER_PORT": "8501"
   }
-  
+}
+
