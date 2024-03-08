@@ -11,17 +11,16 @@ from io import BytesIO
 current_dir = Path(__file__).parent if "__file__" in locals() else Path.cwd()
 css_file = current_dir / "styles" / "main.css"
 resume_file = current_dir / "assets" / "CV.pdf"
-profile_pic = current_dir / "assets" / "photo.png"
+profile_pic = current_dir / "assets" / "shark.png"
 page_icon = current_dir / "assets" / "shark.png"
 
 
 # --- GENERAL SETTINGS ---
-PAGE_TITLE = "Digital CV | Khalid Houbate"
+PAGE_TITLE = "Digital CV | Your Name here"
 # PAGE_ICON = ":wave:"
-NAME = "Khalid Houbate"
+NAME = "Your Name here"
 DESCRIPTION = """
-Results-driven Senior Cloud/DevOps Engineer with a robust background in cybersecurity and a proven track record of designing and managing complex infrastructures. Adept at automating deployment processes, ensuring high availability, and implementing CI/CD pipelines. Multilingual communicator proficient in English, French, and Arabic.
-"""
+Professional Description goes here"""
 EMAIL = {
     "Contact Me":"https://github.com/khoubate/resume/discussions",
     }
@@ -131,6 +130,8 @@ st.write(
 - 🤝 Excellent team-player and displaying strong sense of initiative on tasks
 
 """
+# You can add more  details about your work history above!
+
 )
 
 
@@ -138,6 +139,7 @@ st.write(
 st.write('\n')
 st.subheader("Technical Competencies")
 st.write(
+#  Add skills below and custom them as you see fit
     """
 - 🤖 Automation and Orchestration: Ansible, Puppet, Chef
 - 📁 Version Control: Git
@@ -161,74 +163,48 @@ st.subheader("Work History")
 st.write("---")
 
 # --- JOB 1
-st.write("💼", "**IT Security SysAdmin| Booz Allen Hamilton**")
+st.write("💼", "**Title/Role| Company Name**")
 st.write("Oct 2022 - Present")
 st.write(
     """
 - ► Utilized expertise in system administration and Network security to enhance IT infrastructure for various US Department of Defense clients (Navy, Marine Corps).
-- ► Reduced security vulnerabilities US Navy's IT infrastructure through proactive patch management, updates, fixes, and configuration hardening.
-- ► Executed SCAP compliance checks and security audits to assess and verify system configurations against predefined security baselines.
-- ► Secured Windows & Linux systems, implementing best practices for access control, configuration, file systems, and application security.
-- ► Applied Security Technical Implementation Guide (STIG) configurations to systems running different operating systems, enhancing overall security posture and ensuring compliance.
-- ► Maintained comprehensive documentation of system configurations, security measures, and compliance status for different operating systems. Generating reports for audits and management.
-- ► Serve as the System Administrator maintaining environments run IIS web server hosting .NET application operating a Window SQL Server Database, Contractor for US Marine Corps.
-- ► Supported development team for a .NET application, resulting in a 20% increase in system efficiency.
-- ► Automated software deployments and backups using PowerShell, improving deployment speed by 30%.
-- ► Automated regularly scheduled System Admin functions via scripting language PowerShell.
-- ► Delivered support for web server configuration and maintenance activities.
-- ►	Implemented problem-solving strategies to identify, facilitate, and implement effective solutions.
+
 
 """
 )
 
 # --- JOB 2
 st.write('\n')
-st.write("💼", "**DevSecOps Engineer | Booz Allen Hamilton**")
+st.write("💼", "**Title/Role| Company Namen**")
 st.write("Sep 2021 - Oct 20232")
 st.write(
     """
 - ► Managed configuration for development environment for a US Navy Web-based Application, Contractor for US Navy.
-- ► Maintained CI /CD pipelines for Jenkins and GitHub Actions, automating build process and reducing deployment time by 25%.
-- ► Ensured development environment is compliant with government-required Security Technical Implementation Guides (STIGs).
-- ► Coordinated with multiple teams to deploy releases to internal and Production environments.
-- ► Automated infrastructure deployments using Terraform and cloud technologies (AWS).
-- ► Investigated and resolved security incidents, minimizing downtime and data loss (50 + incidents).
-- ► Collaborated with information security team to identify, address and research potential vulnerabilities, ensuring a resilient IT infrastructure.
-- ► Implemented and maintained Open SIEM/EDR tools (Wazuh/Elastic Stack) for enhanced threat detection and response.
-- ► Utilized containerization technologies AWS EKS, Docker, and Kubernetes to deploy US Navy Web-based applications across multiple clusters, Contractor for US Navy (40% Efficiency Increase). 
-- ► Automated deployment processes with Jenkins (30% reduction in manual errors).
-- ► Maintained version control system repositories (GIT) for source code management.
-- ► Collaborated with development teams for smooth deployments on AWS GovCloud environments.
+
 
 """
 )
 
 # --- JOB 3
 st.write('\n')
-st.write("💼", "**System Engineer Intern | Alion Science & Technology**")
+st.write("💼", "**Title/Role| Company Name**")
 st.write("May 2021 - Sep 2021")
 st.write(
     """
 - ► Built a dashboard sensor in NGIOS showing if a site is in the Active/Idle state by intermittently pinging an access-side device to confirm if a firewall is open/close before an LVC event start.
-- ► Incorporated DISA compliance and accreditation requirements based on the NIST Risk Management Framework, including application of DoD Security Technical Implementation Guidelines (STIG).
-- ► Ensured organization's services and systems were running efficiently and would conduct hardware/software troubleshooting and testing.
-- ► Directed troubleshooting of Linux subsystems in order determine connectivity and if system was operational.
+
 
 """
 )
 
 # --- JOB 4
 st.write('\n')
-st.write("💼", "**Technical Support Specialist | United States Navy**")
+st.write("💼", "**Title/Role| Company Name**")
 st.write("Jan 2013 - Apr 2021")
 st.write(
     """
 - ► Leveraged strong leadership, communication, and problem-solving skills honed through supervising teams in the U.S. Navy to excel in fast-paced environments.
-- ► Managing trouble tickets using Remedy System. Resolves escalated Helpdesk issues promptly.
-- ► Demonstrated proficiency in preventing loss or compromise of sensitive and classified data through effective analysis and resolution of hardware, software, and data management issues.
-- ► Recognized for coaching, training, and mentoring peers and end users. 
-- ► Administered and managed user accounts, restrictions, and security levels in Active Directory.
-- ► Managed & maintained critical systems, ensuring high availability & performance.
+
 
 
 """
