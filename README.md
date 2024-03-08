@@ -37,7 +37,7 @@ Results-driven Senior Cloud/DevOps Engineer with a robust background in cybersec
 
 ## Professional Work Experience
 
-### IT Security Sysadmin - Booz Allen Hamilton, Inc, Norfolk, VA | *Oct 2022 - Present*
+### IT Security Sysadmin - Booz Allen Hamilton, Inc, Norfolk, VA 
 - Utilized expertise in system administration and Network security for various US Department of Defense clients.
 - Reduced security vulnerabilities in US Navy's IT infrastructure through proactive measures.
 - Executed SCAP compliance checks and security audits.
@@ -52,7 +52,7 @@ Results-driven Senior Cloud/DevOps Engineer with a robust background in cybersec
 - Delivered support for web server configuration and maintenance.
 - Implemented problem-solving strategies for effective solutions.
 
-### DevSecOps Engineer - Booz Allen Hamilton, Inc, Norfolk, VA | *Sep 2021 - Oct 2023*
+### DevSecOps Engineer - Booz Allen Hamilton, Inc, Norfolk, VA 
 - Managed configuration for development environment for a US Navy Web-based Application.
 - Maintained CI/CD pipelines for Jenkins and GitHub Actions, reducing deployment time.
 - Ensured development environment compliance with government-required Security Technical Implementation Guides (STIGs).
@@ -65,13 +65,13 @@ Results-driven Senior Cloud/DevOps Engineer with a robust background in cybersec
 - Maintained version control system repositories (GIT) for source code management.
 - Collaborated with development teams for smooth deployments on AWS GovCloud environments.
 
-### System Engineer Intern - Alion Science & Technology, Norfolk, VA | *May 2021 - Sep 2021*
+### System Engineer Intern - Alion Science & Technology, Norfolk, VA 
 - Built a dashboard sensor in NGIOS showing the Active/Idle state of a site.
 - Incorporated DISA compliance and accreditation requirements based on the NIST Risk Management Framework.
 - Ensured organization's services and systems were running efficiently.
 - Directed troubleshooting of Linux subsystems for connectivity and operational status.
 
-### Technical Support Specialist - United States Navy, Various Locations | *Jan 2013 - Apr 2021*
+### Technical Support Specialist - United States Navy, Various Locations 
 - Managed trouble tickets using Remedy System.
 - Resolved escalated Helpdesk issues promptly.
 - Proficient in preventing loss or compromise of sensitive and classified data.
