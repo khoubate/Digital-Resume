@@ -6,9 +6,7 @@ Hello there! I'm Khalid, a Cybersecurity & DevSecOps Engineer passionate. Feel f
 
 - 💬 Leave a comment on [GitHub Discussions](https://github.com/khoubate/resume/discussions)
 - 📥 Open an [issue](https://github.com/khoubate/resume/issues) for questions or feedback
-- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/khalid-houbate/)
-- ![LinkedIn](/assets/social/LinkedIn.png)
-
+- ![<img src="/assets/social/LinkedIn.png" alt="LinkedIn" class="social-icon">](https://www.linkedin.com/in/khalid-houbate/)
 
 Looking forward to hearing from you! 😊
 
